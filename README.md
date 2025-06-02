@@ -1,3 +1,6 @@
+# npm install -g localtunnel 
+# lt --port 8000
+# apt(pkg) install nodejs
 # MsgBot
 # npm cache clean --force
 # npm install dotenv
